@@ -77,3 +77,20 @@ Some comments in the source code are course notes and therefore might not seem n
 
 * [Heroku](https://www.heroku.com/)
 * [GoormIO](https://ide.goorm.io/)
+
+### Sample Images
+
+<img width="1440" alt="Screen Shot 2019-11-18 at 6 20 59 PM" src="https://user-images.githubusercontent.com/57411707/69107066-31ebab80-0a3e-11ea-90b1-7283029c0e4e.png">
+
+<img width="1439" alt="Screen Shot 2019-11-18 at 6 21 25 PM" src="https://user-images.githubusercontent.com/57411707/69107097-4b8cf300-0a3e-11ea-9149-4dc5228d63c3.png">
+
+<img width="1440" alt="Screen Shot 2019-11-18 at 6 23 32 PM" src="https://user-images.githubusercontent.com/57411707/69107128-68c1c180-0a3e-11ea-9321-8c26f5652f52.png">
+
+<img width="1440" alt="Screen Shot 2019-11-18 at 6 21 53 PM" src="https://user-images.githubusercontent.com/57411707/69107150-7b3bfb00-0a3e-11ea-9fd3-6351444c8a26.png">
+
+<img width="1440" alt="Screen Shot 2019-11-18 at 6 22 58 PM" src="https://user-images.githubusercontent.com/57411707/69107167-8727bd00-0a3e-11ea-93b9-cc757abcc256.png">
+
+<img width="1331" alt="Screen Shot 2019-11-18 at 8 04 45 PM" src="https://user-images.githubusercontent.com/57411707/69107246-b8a08880-0a3e-11ea-94c6-01ae6bd72b12.png">
+
+
+<img width="1440" alt="Screen Shot 2019-11-18 at 6 23 24 PM" src="https://user-images.githubusercontent.com/57411707/69107185-93137f00-0a3e-11ea-8b77-5aa3d057a016.png">
